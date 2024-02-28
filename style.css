@@ -1,0 +1,65 @@
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    
+}
+
+
+header {
+    background-color: rgb(241, 182, 7);
+    min-width: 100vw;
+}
+
+nav {
+    color: white;
+}
+
+a {
+    color: white !important;
+}
+
+article {
+    width: 100%;
+    height: 85%;
+    background-image: url(https://fastly.picsum.photos/id/130/3807/2538.jpg?hmac=Kl_ZLgNPUBhsKnffomgQvxWA17JhdNLYBnwlPHBEias);
+    object-fit: fill;
+    
+}
+
+section {
+    color: white;
+}
+
+i {
+    color: white
+}
+
+i:hover, a:hover {
+    color: rgb(241, 182, 7) !important;
+}
+
+.unite, .driver, .follow {
+    color:rgb(241, 182, 7);
+}
+.vape-title {
+    font-size: 1.5rem;
+}
+
+.description {
+    font-size: 3.5rem;
+
+}
+
+.text-color {
+    background-color: rgb(241, 182, 7);
+}
+
+.about-us-img, .highlights-img {
+    height: 75vh;
+}
+
+.ryan-img {
+    max-height: 15vh;
+}
